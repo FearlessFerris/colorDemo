@@ -1,13 +1,14 @@
 h1 {
     color: green;
     background-color: green;
+
 }
 
 /* I have added some minor css color changes to this document under the 'master' git branch */
 
 h2 {
     color: aquamarine;
-    font-size: large;
+    font-size: 16rem;
 }
 
 /* This h2 code whas added using the 'minor-css' git branch */
