@@ -9,6 +9,8 @@ h1 {
 h2 {
     color: aquamarine;
     font-size: 16rem;
+    font-style: italic;
+    background-color: azure ;
 }
 
 /* This h2 code whas added using the 'minor-css' git branch */
