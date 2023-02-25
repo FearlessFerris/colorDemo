@@ -6,6 +6,8 @@ h1 {
 
 h2 {
     color: aquamarine;
+    background-color: red;
+    font-size: 15px;
 }
 
 /* This h2 code whas added using the 'minor-css' git branch */
