@@ -7,10 +7,10 @@ h1 {
 /* I have added some minor css color changes to this document under the 'master' git branch */
 
 h2 {
+    display: block;
     color: aquamarine;
     font-size: 16rem;
     font-style: italic;
-    background-color: azure;
 
 }
 
